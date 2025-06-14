@@ -1,0 +1,6 @@
+output/
+build/
+*.img
+*.zip
+*.tar.gz
+rootfs.ext2
